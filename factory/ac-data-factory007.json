@@ -1,0 +1,9 @@
+{
+	"name": "ac-data-factory007",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a59d167e-dac8-4c32-8711-9444591ac3a7",
+		"tenantId": "f887cc09-5d41-4cc0-802c-493552fbd0b3"
+	}
+}
